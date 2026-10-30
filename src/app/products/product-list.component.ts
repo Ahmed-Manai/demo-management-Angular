@@ -1,5 +1,4 @@
 import {Component, OnInit} from "@angular/core";
-import { catchError } from "rxjs";
 import {IProduct} from "./product"
 
 @Component({
